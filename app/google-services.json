@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "150153354075",
+    "project_id": "testnotificationjava",
+    "storage_bucket": "testnotificationjava.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:150153354075:android:d0ab0c5cfdabc0860b587e",
+        "android_client_info": {
+          "package_name": "com.fhd.testnotificationjava"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "150153354075-1ogmo1uvgib406rgcrcpm5lk0qv8phml.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDermOQXEkmakyXgE9oktt5zyx19qn4rPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "150153354075-1ogmo1uvgib406rgcrcpm5lk0qv8phml.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
